@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+<<<<<<< HEAD
 
 
 /**
@@ -12,9 +13,25 @@
  *
  *             */
 
+=======
+/**
+ * main - Prints the alphabet in lowercase.
+ *
+ * Return: Always 0.
+ */
+>>>>>>> ca8f422a9eff2e8275bc2c3071556a378777706d
 int main(void)
 
 {
+<<<<<<< HEAD
+=======
+	char letter;
+
+	for (letter = 'a'; letter <= 'z'; letter++)
+		putchar(letter);
+
+	putchar('\n');
+>>>>>>> ca8f422a9eff2e8275bc2c3071556a378777706d
 
 	        char ch = 'a';
 
@@ -29,3 +46,5 @@ int main(void)
 					        return (0);
 
 }
+
+
