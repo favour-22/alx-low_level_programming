@@ -1,12 +1,10 @@
 nclude <stdio.h>
 
-#include <string.h>
-
 
 
 /**
  *
- *  * main - Entry Point
+ *  * main - Entry point
  *
  *   *
  *
@@ -14,26 +12,12 @@ nclude <stdio.h>
  *
  *     */
 
-
-
 int main(void)
 
 {
 
-	char str1[70];
+			puts("\"Programming is like building a multilingual puzzle");
 
-
-
-	strcpy(str1, "\"Programming is like building a multilingual puzzle");
-
-
-
-	puts(str1);
-
-
-
-
-
-	return (0);
+					return(0);
 
 }
