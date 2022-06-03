@@ -6,7 +6,7 @@
 
 /**
  *
- *  * main - prints exactly "and that piece of art is useful"
+ *  main - prints exactly "and that piece of art is useful"
  *
  *   * - Dora Korpar, 2015-10-19",
  *
@@ -14,7 +14,8 @@
  *
  *     * Return: Always 0 (Success)
  *
- *      */
+ *      
+ */
 
 int main(void)
 
