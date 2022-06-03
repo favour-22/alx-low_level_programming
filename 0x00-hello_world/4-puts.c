@@ -1,25 +1,39 @@
-#include <stdio.h>
+nclude <stdio.h>
+
+#include <string.h>
+
+
 
 /**
  *
- *    * main - print to screen
+ *  * main - Entry Point
  *
- *       *
+ *   *
  *
- *          * Return: zero
+ *    * Return: Always 0 (Success)
  *
- *             */
+ *     */
+
+
 
 int main(void)
 
 {
 
-		char Mystr[] = "\"Programming is like building a multilingual puzzle";
+	char str1[70];
 
 
 
-			puts(Mystr);
+	strcpy(str1, "\"Programming is like building a multilingual puzzle");
 
-				return (0);
+
+
+	puts(str1);
+
+
+
+
+
+	return (0);
 
 }
