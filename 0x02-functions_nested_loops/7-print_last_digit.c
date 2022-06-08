@@ -23,7 +23,4 @@ int print_last_digit(int x)
 		return (y);
 	}
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
+
