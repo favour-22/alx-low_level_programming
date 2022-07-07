@@ -1,31 +1,3 @@
-
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@favour-22 
-kiminzajnr
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-alx-low_level_programming/0x10-variadic_functions/3-print_all.c
-@kiminzajnr
-kiminzajnr prints anything
-Latest commit 39f7d4d on 12 Mar 2021
- History
- 1 contributor
-42 lines (40 sloc)  784 Bytes
-
 #include <stdarg.h>
 #include <stdio.h>
 #include <stdlib.h>
